@@ -1,0 +1,47 @@
+header .identity {
+  font-size: 2.7em;
+  margin:0 auto;
+  text-align: center;
+}
+
+.identity {
+  font-family: courier;
+  color: #005f8c;
+}
+
+
+
+main.charlie {
+  flex: 1;
+  min-height: 100px;
+}
+footer {
+  background: #202020;
+  color: #fff;
+  padding: 1em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@-webkit-keyframes App-logo-spin {
+  from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+@keyframes App-logo-spin {
+  from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+
+
+#root {
+  flex-direction: row;
+  flex-flow: row wrap;
+}
+
+* {
+  outline: 1px red;
+}
