@@ -1,16 +1,6 @@
-header .identity {
-  font-size: 2.7em;
-  margin:0 auto;
-  text-align: center;
+html {
+  background: url('/img/background.png');
 }
-
-.identity {
-  font-family: courier;
-  color: #005f8c;
-}
-
-
-
 main.charlie {
   flex: 1;
   min-height: 100px;
@@ -21,27 +11,12 @@ footer {
   padding: 1em;
 }
 
-.App-intro {
-  font-size: large;
+.Container {
+  margin: 0 auto;
+  padding: 0 15px;
+  width: 80vw;
 }
 
-@-webkit-keyframes App-logo-spin {
-  from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
-  to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
-}
-
-@keyframes App-logo-spin {
-  from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
-  to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
-}
-
-
-
-#root {
-  flex-direction: row;
-  flex-flow: row wrap;
-}
-
-* {
-  outline: 1px red;
+.Container--Full {
+  width: 80vw;
 }
