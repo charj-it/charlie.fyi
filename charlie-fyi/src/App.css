@@ -1,0 +1,16 @@
+html {
+  background: url('/img/background.png');
+}
+main.charlie {
+  flex: 1;
+  min-height: 100px;
+}
+
+.Container {
+  margin: 0 auto;
+  width: 80vw;
+}
+
+.Container--Full {
+  width: 80vw;
+}

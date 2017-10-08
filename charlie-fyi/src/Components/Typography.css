@@ -1,0 +1,27 @@
+.Text-Center {
+  text-align: center;
+}
+
+.Text-Left {
+  text-align: left;
+}
+
+.Text-Right {
+  text-align: right;
+}
+
+a {
+  color: #005f8c;
+}
+
+a:visited {
+  color: #005f8c;
+}
+
+.Blue {
+  color: #005f8c;
+}
+
+.BlueBackground {
+  background-color: #005f8c;
+}

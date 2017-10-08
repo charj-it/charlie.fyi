@@ -1,0 +1,31 @@
+.PadTopXLarge {
+  padding-top:60px;
+}
+
+.PadTopLarge {
+  padding-top:30px;
+}
+
+.PadTopMedium {
+  padding-top:15px;
+}
+
+.PadTopSmall {
+  padding-top:7.5px
+}
+
+.MarTopXLarge {
+  margin-top:60px;
+}
+
+.MarTopLarge {
+  margin-top:30px;
+}
+
+.MarTopMedium {
+  margin-top:15px;
+}
+
+.MarTopSmall {
+  margin-top:7.5px;
+}
