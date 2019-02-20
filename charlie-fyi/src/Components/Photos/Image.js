@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Modal from './Modal';
 
 export default class Image extends Component {
     render(props) {
