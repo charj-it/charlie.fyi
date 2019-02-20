@@ -8,6 +8,8 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14",
+    "react-social-icons": "^4.1.0",
+    "react-youtube": "^7.9.0",
     "webfontloader": "^1.6.28"
   },
   "scripts": {
