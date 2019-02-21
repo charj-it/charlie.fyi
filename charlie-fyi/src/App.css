@@ -14,3 +14,12 @@ main.charlie {
 .Container--Full {
   width: 80vw;
 }
+
+.Dark {
+  background: #333;
+  padding: 10px 0; 
+}
+
+.Dark * {
+  color: #fff;
+}

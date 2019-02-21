@@ -1,0 +1,8 @@
+.Socials {
+    background: #fff;
+    padding: 15px;
+}
+
+.Socials > .social-icon {
+    margin: 7.5px;
+}

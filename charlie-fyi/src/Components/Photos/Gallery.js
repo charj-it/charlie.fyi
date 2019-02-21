@@ -55,7 +55,9 @@ export default class Gallery extends Component {
 
     render(props) {
         return(
-              <Images images={this.state.images}/>
+          <section className="Photography Dark">
+              <Images images={this.state.images} title="Photography" />
+          </section>
         )
   }
 }

@@ -14,8 +14,11 @@ export default class Images extends Component {
       }
 
         return(
-          <div className="Image-gallery">
-            {imageItems}
+          <div className="Container Text-Center">
+            <h1>{this.props.title}</h1>
+            <div className="Image-gallery">
+              {imageItems}
+            </div>
           </div>
         );
     }

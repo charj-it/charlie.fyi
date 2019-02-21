@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Gallery from './Components/Photos/Gallery';
+import Videos from './Components/Videos';
 import Intro from './Components/Intro';
 import GitHubRibbon from './Components/GitHubRibbon';
 
@@ -19,7 +20,7 @@ WebFont.load({
 
 export default class App extends Component {
   componentDidMount() {
-    document.title = "Charlie Jennings - Developer";
+    document.title = "Charlie Jennings - Software Developer";
   }
 
   render() {
@@ -27,6 +28,7 @@ export default class App extends Component {
       <div>
         <Header />
         <Intro />
+        <Videos />
         <Gallery />
         <Footer />
         <GitHubRibbon />

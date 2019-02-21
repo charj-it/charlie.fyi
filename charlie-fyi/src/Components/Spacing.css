@@ -29,3 +29,20 @@
 .MarTopSmall {
   margin-top:7.5px;
 }
+
+
+.PadBotXLarge {
+  padding-bottom:60px;
+}
+
+.PadBotLarge {
+  padding-bottom:30px;
+}
+
+.PadBotMedium {
+  padding-bottom:15px;
+}
+
+.PadBotSmall {
+  padding-bottom:7.5px
+}
