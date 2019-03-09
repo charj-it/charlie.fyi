@@ -13,6 +13,7 @@ class Intro extends Component {
             </section>
             <section className="Socials Text-Center">
               <SocialIcon url="https://github.com/charj" />
+              <SocialIcon url="https://twitter.com/charlie_fyi" />
               <SocialIcon url="https://linkedin.com/in/charj" />
               <SocialIcon url="https://instagram.com/charlie.fyi" />
               <SocialIcon url="mailto:dev+web@charlie.fyi" />
