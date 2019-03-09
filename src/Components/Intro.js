@@ -16,8 +16,7 @@ class Intro extends Component {
                         'Linux',
                         'Docker',
                         'PHP7',
-                        'JavaScript',
-                        'Ruby'
+                        'JavaScript'
                     ]} />
                 </h2>
             </section>
