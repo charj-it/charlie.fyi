@@ -13,9 +13,6 @@ class Intro extends Component {
                 <h2>
                     <ReactRotatingText items={[
                         'Software Engineer',
-                        'Public Speaker',
-                        'Photographer',
-                        'Motorsport Lover',
                         'Linux',
                         'Docker',
                         'PHP7',
