@@ -1,8 +1,23 @@
 .Socials {
     background: #fff;
     padding: 15px;
+    border-radius: 10em;
 }
 
+.SocialsX {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.SocialsY {
+    width: 70px;
+    position: fixed;
+
+}
 .Socials > .social-icon {
     margin: 7.5px;
+}
+
+.TextRotator {
+    font-size: 20px;
 }
