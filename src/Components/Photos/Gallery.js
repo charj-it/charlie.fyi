@@ -14,7 +14,7 @@ export default class Gallery extends Component {
     componentWillMount() {
       this.setState({images: [
         {
-          src:   'http://68.media.tumblr.com/0c18790951ac28350919fb2a25dc0f02/tumblr_ncu893T0xo1r684oso1_1280.jpg',
+          src:   'https://68.media.tumblr.com/0c18790951ac28350919fb2a25dc0f02/tumblr_ncu893T0xo1r684oso1_1280.jpg',
           title: 'MK1 Golf GTi',
           tags:  ['cars']
         }, {
@@ -46,7 +46,7 @@ export default class Gallery extends Component {
           title:  'Snowdon',
           tags:   ['outdoors', 'landscape']
         }, {
-          src:    'http://78.media.tumblr.com/0d65124a2ef03964f5c6277dda2f10c3/tumblr_n5mckjOly71r684oso1_1280.jpg',
+          src:    'https://78.media.tumblr.com/0d65124a2ef03964f5c6277dda2f10c3/tumblr_n5mckjOly71r684oso1_1280.jpg',
           title:  'BOSS Drift Team - BDC 2016'
         }
       ]
