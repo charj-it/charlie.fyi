@@ -20,7 +20,7 @@ WebFont.load({
 
 export default class App extends Component {
   componentDidMount() {
-    document.title = "Charlie Jennings - Software Developer";
+    document.title = "Charlie Jennings - Software Engineer";
   }
 
   render() {
